@@ -11,6 +11,15 @@ it as the notebooks helped me understand the basics perfectly.
 
 
 As part of Capstone I have worked on EDA project [here](https://github.com/senhorinfinito/ibm_coursera_capstone/blob/master/week5/week5all.ipynb)
+
+
+  
+## Certificates 
+
+![IBM Data Science](https://github.com/senhorinfinito/ibm_coursera_capstone/blob/master/1.jpg)
+
+
+
 ## Course List
 
 The courses in this specialization are,
@@ -33,18 +42,3 @@ Sincere thanks to all the instructors of the above courses. The course contents 
 
 If you have any feedback, please reach out to me at [my profile](https://www.linkedin.com/in/anant-sakhare-909325173/)
 
-
-  
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
-  
-## Certificates 
-
-![IBM Data Science](https://github.com/senhorinfinito/ibm_coursera_capstone/blob/master/1.jpg)
-
-  
